@@ -1,1 +1,2 @@
 c:\users\sorocaba\documents\visual studio 2012\Projects\Watermark\Watermark\bin\Debug\Watermark.exe.config
+C:\Users\pc\Documents\GitHub\teste\Watermark\bin\Debug\Watermark.exe.config
